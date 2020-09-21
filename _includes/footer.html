@@ -1,5 +1,6 @@
 <!-- Contact -->
-<section id="contact">
+<!--  pandeymauli commented out lines 3-65. Gets rid of email form, address, phone -->
+<!-- <section id="contact">
 	<div class="inner">
 		<section>
 			<form action="https://formspree.io/{{ site.email }}" method="POST">
@@ -48,7 +49,7 @@
 					    {{ site.city }},
 					{% endif %}
 					{% if site.state %}
-					    {{ site.state }} 
+					    {{ site.state }}
 					{% endif %}
 					{% if site.zip_code %}
 					    {{ site.zip_code }}<br />
@@ -61,7 +62,7 @@
 			</section>
 		</section>
 	</div>
-</section>
+</section> -->
 
 <!-- Footer -->
 	<footer id="footer">
@@ -69,6 +70,9 @@
 			<ul class="icons">
 				{% if site.twitter_url %}
 				<li><a href="{{ site.twitter_url }}" class="icon alt fa-twitter" target="_blank"><span class="label">Twitter</span></a></li>
+				{% endif %}
+				{% if site.email_url %}
+				<li><a href="mailto:{{ site.email_url }}" class="icon alt fa-envelope" target="_blank"><span class="label">Email</span></a></li>
 				{% endif %}
 				{% if site.googleplus_url %}
 				<li><a href="{{ site.googleplus_url }}" class="icon alt fa-google-plus" target="_blank"><span class="label">Google+</span></a></li>
@@ -99,9 +103,9 @@
 				{% endif %}
 			</ul>
 			<ul class="copyright">
-				<li>&copy; {{ site.title }} {{ site.subtitle }}</li>
-				<li>Design: <a href="https://html5up.net" target="_blank">HTML5 UP</a></li>
-				<li>Jekyll integration: <a href="http://andrewbanchi.ch" target="_blank">Andrew Banchich</a></li>
+				<li>&copy; {{ site.title }} {{ site.subtitle }} 2020</li>
+				<!-- <li>Design: <a href="https://html5up.net" target="_blank">HTML5 UP</a></li> -->
+				<!-- <li>Jekyll integration: <a href="http://andrewbanchi.ch" target="_blank">Andrew Banchich</a></li> -->
 
 			</ul>
 		</div>
