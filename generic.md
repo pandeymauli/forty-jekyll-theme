@@ -1,13 +1,25 @@
 ---
 layout: post
-title: Generic
-description: Lorem ipsum dolor est
-image: assets/images/pic11.jpg
+title: Publications
+description:
+image:
 nav-menu: true
 ---
 
-Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.
+#### PEER-REVIEWED
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus, vel sed vehicula.
+**Singh, A.** *In submission*. Whose Country is Digital India? Unpacking Dominant Power Relations Mediated the Digital India Campaign. Asiascape: Digital Asia. Special Issue: Digital Democracy.
 
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.
+Gupta, D., **Singh, A.**, & Bist-Joshi, S. (2013). Hearts & Minds - Women of India Speak. New Delhi: UN Women, India. (Commissioned White Paper for UN Women, India presented at UN General Assembly)
+
+#### LIGHTLY REVIEWED AND BLOG POSTS
+
+**Singh, A.** (2016, November 29). [‘If you have nothing to hide, you have nothing to fear!’: Why Digital Security is Everyone’s Issue](http://yfa.awid.org/2016/11/if-you-have-nothing-to-hide-then-you-have-nothing-to-fear-why-digital-security-is-everyones-issue/)
+
+**Singh, A.** (2016, March 11). [Mobile Phone: Patriarchy’s New Red Alert](http://thewire.in/23725/mobile-phones-patriarchys-new-red-alert/)
+
+**Singh, A.**, Shukla, S. (2014, July 24). [Women have been branded – Liars!](http://kafila.org/2014/07/24/women-have-been-branded-liars/)
+
+Shukla, S., **Singh, A.** (2014, August 26). [Strength of a Woman](http://kafila.org/2014/08/26/strength-of-a-woman-surabhi-shukla-and-anubha-singh/)
+
+**Singh, A.** (2014, January-February). [The Pradan Jagori Collaboration for Gender Equality](https://www.slideshare.net/slideshow/embed_code/key/2v4yqrAFHf2ZmC)
