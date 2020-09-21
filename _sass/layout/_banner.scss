@@ -17,10 +17,10 @@
 		background-size: cover;
 		border-bottom: 0 !important;
 		cursor: default;
-		height: 60vh;
+		// height: 60vh;
 		margin-bottom: -3.25em;
-		max-height: 32em;
-		min-height: 22em;
+		// max-height: 32em;
+		// min-height: 22em;
 		position: relative;
 		top: -3.25em;
 
@@ -33,7 +33,8 @@
 			display: block;
 			height: 100%;
 			left: 0;
-			opacity: 0.85;
+			// opacity: 0.85;
+			opacity: 1;
 			position: absolute;
 			top: 0;
 			width: 100%;
@@ -103,6 +104,13 @@
 				  opacity: 0.75;
 			}
 		}
+
+		// &.style1 { &:after { background-color: _palette(accent1); } }
+		// &.style2 { &:after { background-color: _palette(accent2); } }
+		// &.style3 { &:after { background-color: _palette(accent3); } }
+		// &.style4 { &:after { background-color: _palette(accent4); } }
+		// &.style5 { &:after { background-color: _palette(accent5); } }
+		// &.style6 { &:after { background-color: _palette(accent6); } }
 
 		&.style1 { &:after { background-color: _palette(accent1); } }
 		&.style2 { &:after { background-color: _palette(accent2); } }
